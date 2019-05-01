@@ -334,7 +334,7 @@
                 "sha256:6a5ad8c9ca27af148d06ac8eb526914cc12d04ae1d93af423d173279e2226c46",
                 "sha256:7dee3fe6fa483c8c2ee4f1af91a65b542c5446d75a6fc25c832cad1ffca8ef0b"
             ],
-            "version": "==0.7.0"
+            "version": "==0.6.0"
         },
         "patsy": {
             "hashes": [
@@ -543,13 +543,6 @@
                 "sha256:4aea003270831cceb8a90ff27c4031da6ead7ec1886023b80ce0dfe0adf61533"
             ],
             "version": "==1.11.1"
-        },
-        "zipline": {
-            "hashes": [
-                "sha256:19b6607845d8d9dfa51c5679c65a143a04172f76fff70a58f9a835a69a25fbf9"
-            ],
-            "index": "pypi",
-            "version": "==1.3.0"
         }
     },
     "develop": {
