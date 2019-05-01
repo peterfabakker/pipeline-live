@@ -27,7 +27,6 @@ setup(
     install_requires=[
         'alpaca-trade-api',
         'iexfinance==0.4.0',
-        'zipline==1.3.0',
         'numpy==1.16.1',
     ],
     tests_require=[
